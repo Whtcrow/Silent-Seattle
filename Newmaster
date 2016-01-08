@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "Seattle Chinese Garden",
+        "Notes": "An imagined geography of peonies, pools, and pavilions",
+        "link": "www.seattlechinesegarden.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35276222229004,
+          47.55312816069254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34422206878662,
+          47.55495285051913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34810590744017,
+          47.55810970349157
+        ]
+      }
+    }
+  ]
+}
